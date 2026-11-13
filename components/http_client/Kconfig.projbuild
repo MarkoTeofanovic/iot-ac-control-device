@@ -1,0 +1,10 @@
+menu "HTTP Client Configuration"
+
+    config HTTP_CLIENT_SERVER_URL
+        string "Server URL"
+        default ""
+        help
+            Puna adresa API-ja na koji se salju podaci senzora,
+            npr. https://example.com/api/sensor-data
+
+endmenu
