@@ -1,6 +1,6 @@
 # iot-ac-control-device
 
-![Device schema](./schema/schema.png)
+
 
 ## Prerequisites
 
